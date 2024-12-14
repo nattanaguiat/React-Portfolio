@@ -1,7 +1,7 @@
 function Portfolio() {
   return (
     <div>
-      <h1>Portfolio</h1>
+      <h2>Portfolio</h2>
       <section class="page-section">
        
        <h2>Work</h2>
@@ -60,3 +60,5 @@ function Portfolio() {
     </div>
   );
 }
+
+export default Portfolio;
