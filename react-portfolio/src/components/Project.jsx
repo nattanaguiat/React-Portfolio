@@ -1,4 +1,16 @@
-function Project () {
+function Project (props) {
+
+    // return (
+    //   <div>
+    //     <section class="page-section">
+    //       <div class="flex-container">
+    //         <a href={props.repo}><div class="flex-item " style={{ backgroundImage: `url(${props.image})` }}></div></a>
+    //           <h3>{props.name}</h3>
+    //           <h5>{props.codeLanguage}</h5>
+    //       </div>
+    //     </section>
+    //   </div>
+    // )
 
 
     return (
